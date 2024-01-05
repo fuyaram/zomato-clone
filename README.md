@@ -1,2 +1,1 @@
-# zomato-clone
-using html and css
+# acciojob-zomato-clone
